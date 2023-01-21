@@ -15,7 +15,11 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
+<<<<<<< HEAD
     <ClCompile Include="_getch.c">
+=======
+    <ClCompile Include="getchar1.c">
+>>>>>>> c327ebab70b88f0a34a7fd4b59d22b09d3d6745f
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

@@ -127,7 +127,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+<<<<<<< HEAD
     <ClCompile Include="_getch.c" />
+=======
+    <ClCompile Include="getchar1.c" />
+>>>>>>> c327ebab70b88f0a34a7fd4b59d22b09d3d6745f
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
